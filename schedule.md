@@ -6,9 +6,9 @@
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Mon  7 | [Introduction to Python](lessons/2017-03-07/lecture-01.pdf) | Programming |
+| 1 | Tue  7 | [Introduction to Python](lessons/2017-03-07/lecture-01.pdf) | Programming |
+| 2 | Fri  10 | [Literate Python Programming](lessons/2017-03-10/) | Theory |
 <!-- 
-| 2 | Fri  7 | x | x |
 | 3 | Mon 10 | x | x |
 | 4 | Fri 14 | x | x |
 | 5 | Mon 17 | x | x |
