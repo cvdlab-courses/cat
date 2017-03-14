@@ -8,8 +8,8 @@
 |--:|------|-----------|----------|
 | 1 | Tue  7 | [Introduction to Python](lessons/2017-03-07/lecture-01.pdf) | Programming |
 | 2 | Fri  10 | [Literate Python Programming](lessons/2017-03-10/) | Theory |
+| 3 | Tue 14 | [intro to geometric modeling](lessons/2017-03-14/) | Programming |
 <!-- 
-| 3 | Mon 10 | x | x |
 | 4 | Fri 14 | x | x |
 | 5 | Mon 17 | x | x |
 | 6 | Fri 21 | x | x |
