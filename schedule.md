@@ -10,9 +10,9 @@
 | 2 | Fri  10 | [Literate Python Programming](lessons/2017-03-10/) | Theory |
 | 3 | Tue 14 | [intro to geometric modeling](lessons/2017-03-14/) | Programming |
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
+| 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
+| 6 | Fri 24 | [Delaunay triangulations](lessons/2017-03-24/) | Theory & Programming |
 <!-- 
-| 5 | Mon 17 | x | x |
-| 6 | Fri 21 | x | x |
 | 7 | Mon 24 | x | x |
 | 8 | Fri 28 | x | x |
 
