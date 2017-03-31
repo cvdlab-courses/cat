@@ -12,9 +12,9 @@
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
 | 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
 | 6 | Fri 24 | [Delaunay triangulations](lessons/2017-03-24/) | Theory & Programming |
+| 7 | Tue 28 | [Cellular complexes, LAR](lessons/2017-03-28/) | Theory |
+| 8 | Fri 31 | [Linear Algebraic Representation](lessons/2017-03-31/) | Programming |
 <!-- 
-| 7 | Mon 24 | x | x |
-| 8 | Fri 28 | x | x |
 
 ### November 2016
 
