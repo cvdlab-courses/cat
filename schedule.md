@@ -14,14 +14,14 @@
 | 6 | Fri 24 | [Delaunay triangulations](lessons/2017-03-24/) | Theory & Programming |
 | 7 | Tue 28 | [Cellular complexes, LAR](lessons/2017-03-28/) | Theory |
 | 8 | Fri 31 | [Linear Algebraic Representation](lessons/2017-03-31/) | Programming |
-<!-- 
 
 ### November 2016
 
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Fri  4 | x | x |
-| 2 | Mon  7 | x | x |
+| 9 | Tue  4 | [Computer set-up, Julia parallel examples](lessons/2017-04-04/) | Programming |
+| 10 | Fri  7 | [LAR, incidence and adjacency relations](lessons/2017-04-07/) | Theory |
+<!-- 
 | 3 | Fri 11 | x | x |
 | 4 | Mon 14 | x | x |
 | 5 | Fri 18 | x | x |

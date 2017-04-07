@@ -13,7 +13,7 @@ batches=[]
 
 # In[3]:
 
-batches=Batch.openObj("bunny.obj")
+batches=Batch("bunny.obj")
 
 
 # In[4]:
