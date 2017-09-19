@@ -1,5 +1,5 @@
 # Topologia Algebrica Computazionale (IN540)
-## a.a. 2016/17 
+## a.a. 2017/87 
 ### Prof. [Alberto Paoluzzi](http://paoluzzi.dia.uniroma3.it)
 
 ## Obiettivi didattici
@@ -31,3 +31,21 @@ Si utilizzerà per scopi didattici il cluster di calcolo del Dipartimento di Mat
 5.	Herbert Edelsbrunner, [Geometry and Topology for Mesh Generation](https://www.amazon.com/Generation-Cambridge-Monographs-Computational-Mathematics/dp/052168207X), Cambridge Monographs on Applied and Computational Mathematics, 2001.
 
 6.	Antonio DiCarlo, Alberto Paoluzzi, and Vadim Shapiro, [Linear algebraic representation for topological structures](http://www.sciencedirect.com/science/article/pii/S001044851300184X), CAD, 2014
+
+## Schedule (IN540)
+
+### Coming soon ...
+
+<!-- to be used as an example
+### March 2017
+| # | date | arguments | category |
+|--:|------|-----------|----------|
+| 1 | Tue  7 | [Introduction to Python](lessons/2017-03-07/lecture-01.pdf) | Programming |
+| 2 | Fri  10 | [Literate Python Programming](lessons/2017-03-10/) | Theory |
+| 3 | Tue 14 | [intro to geometric modeling](lessons/2017-03-14/) | Programming |
+| 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
+| 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
+| 6 | Fri 24 | [Delaunay triangulations](lessons/2017-03-24/) | Theory & Programming |
+| 7 | Tue 28 | [Cellular complexes, LAR](lessons/2017-03-28/) | Theory |
+| 8 | Fri 31 | [Linear Algebraic Representation](lessons/2017-03-31/) | Programming |
+-->
