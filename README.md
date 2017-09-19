@@ -1,5 +1,5 @@
 # Topologia Algebrica Computazionale (IN540)
-## a.a. 2017/87 
+## a.a. 2017/18 
 ### Prof. [Alberto Paoluzzi](http://paoluzzi.dia.uniroma3.it)
 
 ## Obiettivi didattici
