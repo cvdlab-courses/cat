@@ -1,10 +1,10 @@
 # Topologia Algebrica Computazionale (IN540)
-## a.a. 2017/18 
+## a.a. 2018/19 
 ### Prof. [Alberto Paoluzzi](http://paoluzzi.dia.uniroma3.it)
 
 ## Obiettivi didattici
 
-Questo corso di magistrale/dottorato introduce alla topologia computazionale, ed in particolare a concetti, rappresentazioni e algoritmi per strutture topologiche di supporto alla geometria computazionale, alla modellazione geometrica, alla costruzione di mesh per simulazioni, e alla visualizzazione scientifica. Si illustrano tecniche parallele per rappresentare grafi e complessi di enormi dimensioni  come matrici sparse, e per codificare algoritmi su grafi e complessi con metodi di algebra lineare.
+Questo corso di magistrale/dottorato introduce alla topologia computazionale, ed in particolare a concetti, rappresentazioni e algoritmi per strutture topologiche di supporto alla geometria computazionale, alla modellazione geometrica, alla costruzione di mesh per simulazioni, e alla visualizzazione scientifica. Si illustrano anche tecniche di  rappresentazione di grafi e complessi cellulari di enormi dimensioni come matrici sparse, e metodi di algebra lineare per codificare complessi cellulari e algoritmi su grafi.
 
 ## Programma del corso
 
@@ -12,15 +12,15 @@ Breve introduzione al linguaggio Julia per calcolo scientifico. Introduzione all
 
 ## Linguaggi di programmazione
 
-[Julia](http://julialang.org), C++
+[Julia](http://julialang.org)
 
 ## Risorse di calcolo
 
-Si utilizzerà per scopi didattici il cluster di calcolo del Dipartimento di Matematica e Fisica, integrato dalle risorse del laboratorio didattico di Matematica e del [Laboratorio CVD](http://cvdlab.org) come punti di accesso.
+Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risorse del Laboratorio di Scienze Computazionali.
 
 ## Materiale didattico
 
-1. [IN540 - Computational Algebraic Topology](https://github.com/cvdlab-courses/CAT)
+1. [IN540 - Computational Topology](https://github.com/cvdlab-courses/CAT)
 
 2.	Herbert Edelsbrunner and John Harer, [Computational Topology. An Introduction](https://www.amazon.it/Computational-Topology-Introduction-Herbert-Edelsbrunner/dp/0821849255/),  AMS, 2011.
 
