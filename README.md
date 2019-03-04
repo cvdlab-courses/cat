@@ -1,4 +1,4 @@
-# Topologia Algebrica Computazionale (IN540)
+# Topologia Computazionale (IN540)
 ## a.a. 2018/19 
 ### Prof. [Alberto Paoluzzi](http://paoluzzi.dia.uniroma3.it)
 
@@ -34,14 +34,16 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 
 ## Schedule (IN540)
 
-### Coming soon ...
-
-<!-- to be used as an example
-### March 2017
+### February 2019
 | # | date | arguments | category |
 |--:|------|-----------|----------|
-| 1 | Tue  7 | [Introduction to Python](lessons/2017-03-07/lecture-01.pdf) | Programming |
-| 2 | Fri  10 | [Literate Python Programming](lessons/2017-03-10/) | Theory |
+| 1 | Tue  26 | [Course introduction](lessons/2019-02-26) | Theory |
+
+### March 2019
+| # | date | arguments | category |
+|--:|------|-----------|----------|
+| 2 | Mon  4 | [Segment intersection](lessons/2019-03-04/) | Programming |
+<!-- to be used as an example
 | 3 | Tue 14 | [intro to geometric modeling](lessons/2017-03-14/) | Programming |
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
 | 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
