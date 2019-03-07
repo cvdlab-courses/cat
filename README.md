@@ -43,6 +43,7 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 | # | date | arguments | category |
 |--:|------|-----------|----------|
 | 2 | Mon  4 | [Segment intersection](lessons/2019-03-04/) | Programming |
+| 3 | Thu  7 | [Segment inter.; LAR introduction](lessons/2019-03-04/) | Programming/Theory |
 <!-- to be used as an example
 | 3 | Tue 14 | [intro to geometric modeling](lessons/2017-03-14/) | Programming |
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
