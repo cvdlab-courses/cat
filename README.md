@@ -44,8 +44,8 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 |--:|------|-----------|----------|
 | 2 | Mon  4 | [Segment intersection](lessons/2019-03-04/) | Programming |
 | 3 | Thu  7 | [Segment inter.; LAR introduction](lessons/2019-03-04/) | Programming/Theory |
+| 4 | Thu  14 | [Computing with chains/cochains and LAR](lessons/2019-03-14/) | Theory/Programming |
 <!-- to be used as an example
-| 3 | Tue 14 | [intro to geometric modeling](lessons/2017-03-14/) | Programming |
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
 | 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
 | 6 | Fri 24 | [Delaunay triangulations](lessons/2017-03-24/) | Theory & Programming |
