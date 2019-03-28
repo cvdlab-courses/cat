@@ -48,6 +48,7 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 | 5 | Fri  14 | [Computing with chains/cochains](lessons/2019-03-14/) | Theory/Programming |
 | 6 | Thu  21 | [Chains and IntervalTrees](lessons/2019-03-21/) | Theory/Programming |
 | 7 | Fri  22 | [Arrangement pipeline](lessons/2019-03-22/) | Programming |
+| 7 | Thu  28 | [Equivalence by congruence](lessons/2019-03-28/) | Programming/Theory |
 <!-- to be used as an example
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
 | 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
