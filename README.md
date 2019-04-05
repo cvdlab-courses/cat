@@ -55,6 +55,7 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 | # | date | arguments | category |
 |--:|------|-----------|----------|
 | 10 | Thu  4 | [Topological Gift Wrapping algorithm](lessons/2019-04-04/) | Programming/Theory |
+| 11 | Fri  5 | [TGW implementation](lessons/2019-04-05/) | Programming |
 <!-- to be used as an example
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
 | 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
