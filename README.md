@@ -57,6 +57,13 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 | 10 | Thu  4 | [Topological Gift Wrapping algorithm](lessons/2019-04-04/) | Programming/Theory |
 | 11 | Fri  5 | [TGW implementation](lessons/2019-04-05/) | Programming |
 | 12 | Fri  26 | [3D Arrangement debugging](lessons/2019-04-26/) | Programming |
+
+
+### May 2019
+| # | date | arguments | category |
+|--:|------|-----------|----------|
+| 13 | Thu  4 | [Symbolic Debugging in Julia](lessons/2019-05-02/) | Programming/Theory |
+
 <!-- to be used as an example
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
 | 5 | Tue 21 | [Simplexn package](lessons/2017-03-21/) | Programming |
