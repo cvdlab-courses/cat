@@ -64,6 +64,8 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 |--:|------|-----------|----------|
 | 13 | Thu  2 | [Symbolic Debugging in Julia](lessons/2019-05-02/) | Programming/Theory |
 | 14 | Fri  3 | [Alpha shapes](lessons/2019-05-03/) | Theory |
+| 15 | Thu  9 | [LAR Surfaces from 3D images](lessons/2019-05-09/) | Theory |
+| 16 | Fri  10| [LAR Surfaces from 3D images](lessons/2019-05-10/) | Theory, Programming |
 
 <!-- to be used as an example
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
@@ -71,4 +73,5 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 | 6 | Fri 24 | [Delaunay triangulations](lessons/2017-03-24/) | Theory & Programming |
 | 7 | Tue 28 | [Cellular complexes, LAR](lessons/2017-03-28/) | Theory |
 | 8 | Fri 31 | [Linear Algebraic Representation](lessons/2017-03-31/) | Programming |
+| 8 | Thu 31 | [Linear Algebraic Representation](lessons/2017-03-31/) | Programming |
 -->
