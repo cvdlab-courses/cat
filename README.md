@@ -67,6 +67,7 @@ Superserver DGX-1 del Dipartimento di Matematica e Fisica, integrato dalle risor
 | 15 | Thu  9 | [LAR Surfaces from 3D images](lessons/2019-05-09/) | Theory |
 | 16 | Fri  10| [LAR Surfaces from 3D images](lessons/2019-05-10/) | Theory, Programming |
 | 17 | Thu  16| [Domain Trees](lessons/2019-05-16/) | Theory, Programming |
+| 18 | Fri  17| [Alpha shapes implementation](lessons/2019-05-17/) | Programming |
 
 <!-- to be used as an example
 | 4 | Fri 17 | [Simplicial complexes & SW automation tools](lessons/2017-03-17/) | Theory |
